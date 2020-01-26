@@ -24,7 +24,7 @@ function saveToDos() {
 function paintTodo(text){
     const li = document.createElement("li");
     const delBtn = document.createElement("button");
-    delBtn.innerText = "X";
+    delBtn.innerText = " ";
     delBtn.addEventListener("click", deleteTodo)
     const span = document.createElement("span");
     const newId = todos.length + 1;
