@@ -1,7 +1,7 @@
 # vanilla_js
 Vanilla Javascript projects
 
-## Pj01 Momentum Chrome extension clonning.
+## PJ 1 Momentum Chrome extension clonning.
 
 ### Using
   Vanilla Javascript, HTML, CSS, Ajax, Geolocation.
@@ -11,3 +11,13 @@ Vanilla Javascript projects
  - find location and load temperature info.
  - Clock and random wallpaper homepage.
 
+## PJ Paint Js
+ 
+### Using
+  Vanilla Javascript, HTML, (Canvas), CSS
+  
+### Function
+  - Drowing tool
+  - Choosing color property
+  - Fill and drowing option
+  - Save painting
