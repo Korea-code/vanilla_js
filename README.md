@@ -11,7 +11,7 @@ Vanilla Javascript projects
  - find location and load temperature info.
  - Clock and random wallpaper homepage.
 
-## PJ Paint Js
+## PJ 2 Paint Js
  
 ### Using
   Vanilla Javascript, HTML, (Canvas), CSS
