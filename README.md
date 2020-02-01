@@ -1,7 +1,7 @@
 # vanilla_js
 Vanilla Javascript projects
 
-## PJ 1 Momentum Chrome extension clonning.
+## PJ 1 Momentum Chrome extension cloning.
 
 ### Using
   Vanilla Javascript, HTML, CSS, Ajax, Geolocation.
