@@ -17,7 +17,7 @@ Vanilla Javascript projects
   Vanilla Javascript, HTML, (Canvas), CSS
   
 ### Function
-  - Drowing tool
+  - Drawing tool
   - Choosing color property
   - Fill and drowing option
   - Save painting
