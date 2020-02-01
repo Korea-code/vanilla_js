@@ -19,5 +19,5 @@ Vanilla Javascript projects
 ### Function
   - Drawing tool
   - Choosing color property
-  - Fill and drowing option
+  - Fill and drawing option
   - Save painting
